@@ -1,0 +1,3 @@
+/Users/ekaterinakuzina/Education/Практика/Encryption/CMakeFiles/rebuild_cache.dir
+/Users/ekaterinakuzina/Education/Практика/Encryption/CMakeFiles/edit_cache.dir
+/Users/ekaterinakuzina/Education/Практика/Encryption/CMakeFiles/encryptions.dir
